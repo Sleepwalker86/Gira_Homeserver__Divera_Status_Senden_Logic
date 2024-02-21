@@ -16,5 +16,3 @@ E2 Status ID - Trifft an dem Eingang Zahl ein die einem in Divera angelegten Sta
 A1 Status - Hier wird eine "1" ausgegeben wenn das senden des Status erfolgreich war.
 
 A1 Debug - An diesem Ausgang werden Fehler falls vorhanden ausgegeben.
-
-
